@@ -8,7 +8,7 @@ public class WhatIf
 
         if (people < cats)
         {
-            System.out.println("Too many cats! The world is doomed.")
+            System.out.println("Too many cats! The world is doomed.");
         }
 
     }
